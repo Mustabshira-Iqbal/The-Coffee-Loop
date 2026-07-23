@@ -1,0 +1,14 @@
+
+====================================
+THE COFFEE LOOP RECEIPT
+====================================
+Order ID      : 9483
+Customer Name : Mustabshira
+Coffee        : Vanilla Latte
+Price         : Rs. 600
+Quantity      : 4
+Subtotal      : Rs. 2400
+Discount      : Rs. 0
+Final Total   : Rs. 2400
+Payment Method: Cash
+====================================
